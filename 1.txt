@@ -1,4 +1,0 @@
-aiogram
-aiohttp
-apscheduler
-flask
